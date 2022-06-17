@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### Amawal n Tmaziɣt Tatrart - Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/KoceilaDRK/Awamal-Privacy-policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Amawal n Tmaziɣt Tatrart and its developer take your privacy very seriously. Beyond the information Google provides to developers that you can decide to provide, It uses no third-party analytics or advertising frameworks. Amawal n Tmaziɣt Tatrart logs no information on you and has no interest in doing such.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Collection of Personal Information
 
-### Markdown
+The app does not collect, transmit or share any information, personal or otherwise.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Email
 
-```markdown
-Syntax highlighted code block
+If you email the developer for support or other feedback, the emails with email addresses will be retained for quality assurance purposes. The email addresses will be used only to reply to the concerns or suggestions raised and will never be used for any marketing purpose.
 
-# Header 1
-## Header 2
-### Header 3
+## Disclosure of Personal Information
 
-- Bulleted
-- List
+We will not disclose your information to any third party except if you expressly consent or where required by law.
 
-1. Numbered
-2. List
+## Changes to This Privacy Policy
 
-**Bold** and _Italic_ and `Code` text
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-[Link](url) and ![Image](src)
-```
+## Contac Us
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KoceilaDRK/Awamal-Privacy-policy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
